@@ -1,0 +1,70 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Angular Connect Lilafüre",
+      "date": "26/09/2036",
+      "time": "10am",
+      "location": {
+        "address": "1 London Rd",
+        "city": "London",
+        "country": "ENGLAND"
+      }
+    },
+    {
+      "id": 3,
+      "name": "ng-conf 2037",
+      "date": "15/04/2037",
+      "time": "09am",
+      "location": {
+        "address": "The Palatial America Hotel",
+        "city": "Salt Lake City",
+        "country": "UNITED STATES"
+      }
+    },
+    {
+      "id": 4,
+      "name": "UN Angular Summit",
+      "date": "10/06/2037",
+      "time": "08am",
+      "location": {
+        "address": "The UN Angular Center",
+        "city": "New York",
+        "country": "UNITED STATES"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Második tengerjáró show",
+      "date": "29/02/2022",
+      "time": "12am",
+      "location": {
+        "address": "Avenue Adria",
+        "city": "Makarska",
+        "country": "CROATIA"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Vízenjárók második menete",
+      "date": "14/01/2025",
+      "time": "03pm",
+      "location": {
+        "address": "Kotor Bay 49.",
+        "city": "Kotor",
+        "country": "MONTENEGRO"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Első összejövetel",
+      "date": "12/12/2020",
+      "time": "10am",
+      "location": {
+        "address": "Sicily Road",
+        "city": "PALERMO",
+        "country": "ITALY"
+      }
+    }
+  ]
+}

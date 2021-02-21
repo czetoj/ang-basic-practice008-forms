@@ -1,0 +1,11 @@
+.error-message {
+  font-style: italic;
+  font-size: 0.8em;
+  color: rgb(155, 4, 4);
+  animation: 3s slidein;
+}
+
+@keyframes slidein {
+  from {transform: scaleX(0)}
+  to {transform: scaleX(1)}
+}
